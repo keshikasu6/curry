@@ -195,7 +195,7 @@ i::before{
     padding: 20px 10px;
 }
 
-@media (min-Zidth: 768px) {
+@media (min-width: 768px) {
 
 
 
@@ -215,7 +215,7 @@ width:92%;
  margin:auto;
  }
  .menu-list li {
- flex-groZ:1;
+ flex-flow:1;
 border-right:1px solid #fff;
 border-bottom:none;
 }
@@ -243,7 +243,7 @@ border-bottom:none;
     }
     .item-col {
         max-width: none;
-        width: calc(calc(100% / 3) -40px);
+        width: calc(calc(100% / 3) - 40px);
     }
     .heading {
         margin-bottom:50px ;
